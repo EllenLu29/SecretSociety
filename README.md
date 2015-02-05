@@ -6,5 +6,5 @@ Our Github Repository Yay!
 Jason Lee
 Ellen Lu
 Jessica Shin
-Jacqueline Fay
+Jacqueline Chao
 Timothy Ling
